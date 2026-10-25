@@ -7,7 +7,7 @@ export interface SiteContent {
 }
 
 export const siteContent: SiteContent = {
-  "generatedAt": "2026-10-24T02:40:14.067Z",
+  "generatedAt": "2026-10-25T02:29:10.909Z",
   "articles": [
     {
       "title": "我是怎么把 GitHub Actions 用成个人主页内容编辑器的",
@@ -42,21 +42,21 @@ export const siteContent: SiteContent = {
   ],
   "tools": [
     {
+      "title": "campus-connect-ddns",
+      "href": "https://github.com/ox0pine/campus-connect-ddns",
+      "description": "🏫 西电校园网 SRun 自动认证与保活，附带 Cloudflare DDNS 动态域名更新，适合挂机/远程访问场景",
+      "updatedAt": "2026-10-24"
+    },
+    {
       "title": "qfpqhyl.top",
       "href": "https://github.com/ox0pine/qfpqhyl.top",
       "description": "一个使用 React、Vite 和 Base UI 搭建的个人主页，展示最近文章与工具。「没错，正是这个页面，Github Action每天都会抓取最新的文章和仓库。」",
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "title": "local_img2bed_img",
       "href": "https://github.com/ox0pine/local_img2bed_img",
       "description": "将⌈*.md⌋中的本地图片一键上传到图床并替换⌈*.md⌋中的路径引用。",
-      "updatedAt": "2026-10-09"
-    },
-    {
-      "title": "date2Graduate",
-      "href": "https://github.com/ox0pine/date2Graduate",
-      "description": "距离2026年研究生入学考试还有多少天？",
       "updatedAt": "2026-10-09"
     },
     {
@@ -66,9 +66,9 @@ export const siteContent: SiteContent = {
       "updatedAt": "2026-10-09"
     },
     {
-      "title": "ShellAssistant",
-      "href": "https://github.com/ox0pine/ShellAssistant",
-      "description": "通过命令行交互，提供Shell脚本建议和错误修正。",
+      "title": "date2Graduate",
+      "href": "https://github.com/ox0pine/date2Graduate",
+      "description": "距离2026年研究生入学考试还有多少天？",
       "updatedAt": "2026-10-09"
     }
   ]
